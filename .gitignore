@@ -1,3 +1,6 @@
+# Ignore raw data
+Data/*
+!Data/.gitkeep
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
